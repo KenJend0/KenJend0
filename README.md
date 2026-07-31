@@ -14,7 +14,7 @@ engineering discipline behind reliable ML in production.
 
 **Highlighted projects**
 
-- **[Waveform](https://github.com/KenJend0/waveform)** — social music discovery platform
+- **[Sillon](https://github.com/KenJend0/sillon)** — social music discovery platform
   (Next.js, Expo, Supabase) with a batch collaborative-filtering recommendation pipeline.
 - **[Lightweight Fracture Segmentation CNN](https://github.com/KenJend0/lightweight-fracture-segmentation-cnn)** —
   544K-parameter multi-view CNN for 3D fracture segmentation, 15-step ablation study
@@ -27,4 +27,4 @@ Supabase · Git / GitHub Actions
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/teyssir-aissi) · [Waveform](https://waveformapp.online) · aissiteyssir16@gmail.com
+[LinkedIn](https://www.linkedin.com/in/teyssir-aissi) · [Sillon](https://sillon.fm) · aissiteyssir16@gmail.com
