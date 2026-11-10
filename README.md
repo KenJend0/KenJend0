@@ -1,7 +1,7 @@
 ### Aissi Teyssir — Machine Learning Engineer
 
 Engineering student (ESILV, Data & AI) and Master's student (DataScale, Université
-Paris-Saclay), building applied ML systems end to end — from model design to the
+Paris-Saclay), building applied ML systems end to end, from model design to the
 pipelines and product surfaces that put them in front of users.
 
 Currently a research intern at the **University of Science and Technology of Hanoi**,
